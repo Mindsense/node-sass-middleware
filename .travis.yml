@@ -14,3 +14,6 @@ deploy:
     repo: sass/node-sass-middleware
     branch: master
     all_branches: true
+env:
+  global:
+    secure: Vp1DfqhC1cVvn1gTUEfclO7N1rRzF8AvIHaRqVUWYeWucXU/ihlgQ6TjyoVCEdcZikMGR80IDjiMY2UXeoBFX45atbpErllkQpyuPop/dGOX+lxXXAFjaCYDR07uB+HJbm/QFLYLxqr2UORD+u63w50sV/ltb6inhYtuLDO2DIs=
